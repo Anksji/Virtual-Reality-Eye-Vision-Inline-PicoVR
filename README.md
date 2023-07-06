@@ -6,11 +6,12 @@
 ## Introduction
 This is a sample project in Virtual Reality to track eye vision. In this project, you will find several objects in the VR space you can view them via VR headset when you move your head left and right, and also you can magnify and minimize those objects. This project is developed in Unity 3D with a virtual VR headset.
 
-
+##
+##
 
 MIT License
 
-Copyright (c) 2023 AD Raj
+Copyright (c) 2023 Ankit Dwivedi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
